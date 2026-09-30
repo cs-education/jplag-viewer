@@ -1,0 +1,3 @@
+# Never commit reports: they contain student code.
+*.jplag
+*.zip
